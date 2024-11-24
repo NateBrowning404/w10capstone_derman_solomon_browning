@@ -1,0 +1,10 @@
+boto3
+numpy
+pandas
+Requests
+streamlit==1.39.0
+streamlit_option_menu
+streamlit-folium
+folium
+geopandas
+random
